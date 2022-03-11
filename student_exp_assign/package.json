@@ -1,0 +1,15 @@
+{
+  "name": "student_exp_assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "students.js",
+  "scripts": {
+    "serve": "nodemon students.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
