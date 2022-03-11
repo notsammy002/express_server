@@ -2,9 +2,9 @@
   "name": "express-intro",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "author.js",
   "scripts": {
-    "serve": "nodemon server.js" 
+    "serve": "nodemon author.js" 
   },
   "keywords": [],
   "author": "",
